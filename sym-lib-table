@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name doodad-rescue)(type Legacy)(uri ${KIPRJMOD}/doodad-rescue.lib)(options "")(descr ""))
+)
